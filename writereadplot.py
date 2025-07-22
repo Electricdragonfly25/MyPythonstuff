@@ -64,7 +64,7 @@ print(opensesame)
 #y = df['temp/degrees2']
 #plt.plot(x,y,'b')
 
-#------------------PhD data--------------------------
+#------------------PhD data, making matlab redundant--------------------------
 
 #df = pd.read_csv(r"C:\Users\User\Documents\S11DIVSMALL.csv")
 plt.clf()
