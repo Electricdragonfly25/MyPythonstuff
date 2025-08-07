@@ -1,0 +1,2 @@
+Hello! So I've put a few Python projects from my computer on here. Basically the ones I see as more intensive than your simple 'hello world!' statement. This has included things like nested loops/Reading CSVs since these are used in data science type applications.
+This isn't everything I've done as I have done things on codeacademy. Please get in touch if you would like to know more about the code or what else I've been working on
